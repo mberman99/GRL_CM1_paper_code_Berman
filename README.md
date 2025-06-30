@@ -12,6 +12,6 @@ namelist.input.template is a sample namelist that can be used to generate a CM1 
 
 needed_functions.py are the functions needed to do the tracking in the updated_automated_area.py
 
-scatter_plots_heatmaps.ipynb produces Figs 1c, 2-4. 
+results_figures.ipynb produces Figs 2 and 3. 
 
 updated_automated_area.py does the updraft tracking as described in the text. 
