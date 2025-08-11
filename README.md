@@ -12,6 +12,8 @@ namelist.input.template is a sample namelist that can be used to generate a CM1 
 
 needed_functions.py are the functions needed to do the tracking in the updated_automated_area.py
 
+processed_sounding_data.ipynb is the methodology to modify the observed sounding for both input into CM1 and to change the lapse rates/static stability in the UTLS. 
+
 results_figures.ipynb produces Figs 2 and 3. 
 
 updated_automated_area.py does the updraft tracking as described in the text. 
