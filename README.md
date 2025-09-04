@@ -17,3 +17,5 @@ processed_sounding_data.ipynb is the methodology to modify the observed sounding
 results_figures.ipynb produces Figs 2 and 3. 
 
 updated_automated_area.py does the updraft tracking as described in the text. 
+
+The Zenodo DOI associated with this repository is 10.5281/zenodo.17057693
